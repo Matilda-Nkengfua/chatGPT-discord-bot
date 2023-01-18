@@ -1,0 +1,22 @@
+# .gitignore
+
+# Dependency directories
+venv/
+
+# Discord token and API key
+token.txt
+openai_api_key.txt
+
+# Logs
+logs/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python files
+__pycache__/
+*.pyc
+*.pyo
+
+other

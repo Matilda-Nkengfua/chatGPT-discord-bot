@@ -1,0 +1,12 @@
+{
+    "exchange_services":{
+        "oer":"openexchangerates.org",
+        "er":"exchangerate.host"
+},
+"ai_models":{
+    "davinci":"text-davinci-002",
+    "curie":"text-curie-001",
+    "babbage":"text-babbage-001",
+    "ada":"text-ada-001"
+}
+}
