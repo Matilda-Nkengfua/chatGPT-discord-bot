@@ -6,6 +6,7 @@ venv/
 # Discord token and API key
 token.txt
 openai_api_key.txt
+.env
 
 # Logs
 logs/
