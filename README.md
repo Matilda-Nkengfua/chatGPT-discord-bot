@@ -35,8 +35,19 @@ pip install -r requirements.txt
 
 ### Running the bot
 
+#### Locally with Python
 ```bash
 python run.py
+```
+
+#### In a container
+1. Build the docker image using this command:
+```bash
+docker build -t chatgpt-docker-bot .
+```
+2. Run the container in the backgroun
+```bash
+docker run -d chatgpt-docker-bot .
 ```
 
 ## Using the bot
